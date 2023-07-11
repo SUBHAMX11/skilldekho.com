@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@next/codemod": "^13.4.7"
+  }
+}
